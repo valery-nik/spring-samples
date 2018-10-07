@@ -1,0 +1,18 @@
+# Данный файл никак нельзя загрузить!
+ldap:
+  username: roles.yml
+  supportedRoleTemplates:
+    - XXXXXXXX
+    - AdminDBO2
+    - SupportOperatorDBO2
+    - GODOperatorDBO2
+    - SecurityAdminDBO2
+    - SecurityManagerDBO2
+    - OperatorDBO2
+    - ControllerDBO2
+    - FraudOperatorDBO2
+    - SystemFraudDBO2
+    - TechSignerDBO2
+    - SystemAccessControlDBO2
+    - SystemAuthInternalDBO2
+    - SystemMigrationDBO2
